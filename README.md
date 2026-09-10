@@ -46,6 +46,11 @@ Skill 适合需要稳定执行逻辑、脚本、工具链的复杂场景；提�
 - [ ] 写明适用场景和使用方法
 - [ ] 附一个真实使用示例
 
+## 关联项目
+
+- [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) — 技能仓：轻场景用提示词，重场景沉淀成 Skill（可互转）
+- [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) — DSH 插件包：Skill 一键安装即用
+
 ## 协议
 
 MIT License，自由使用、修改、分发。
